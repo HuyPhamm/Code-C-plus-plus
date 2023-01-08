@@ -11,7 +11,7 @@ int main()
 		cin >> n;
 		float x;
 		cin >> x;
-		double s=0.000;
+		float s=0.000;
 		int j=0;
 		if(1<=n<=20)
 		{
